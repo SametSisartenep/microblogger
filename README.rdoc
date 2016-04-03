@@ -1,0 +1,9 @@
+== Microblogger
+
+Let's create something less useful than a breathing machine for fishes!
+
+ようこそ everyone and all that. If you think Twitter is useless you're
+going to hate this crApp.
+
+
+![Ruby on Rails Logo](http://rubyonrails.org/images/rails-logo.svg =120x15)
