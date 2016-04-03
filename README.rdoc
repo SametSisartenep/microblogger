@@ -6,4 +6,4 @@ Let's create something less useful than a breathing machine for fishes!
 going to hate this crApp.
 
 
-![Ruby on Rails Logo](http://rubyonrails.org/images/rails-logo.svg =120x15)
+<img src="http://rubyonrails.org/images/rails-logo.svg" width="120px" height="15px" alt="Ruby on Rails Logo" />
